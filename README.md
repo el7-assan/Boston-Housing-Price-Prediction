@@ -15,7 +15,7 @@ Model evaluation with multiple performance metrics
 
 # Tools & Libraries
 
-Python 🐍
+Python 
 
 Pandas
 
